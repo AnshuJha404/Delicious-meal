@@ -1,5 +1,5 @@
-# Reciepe-finder
+# Delicious-meal
 
 
 
-https://anshujha404.github.io/Reciepe-finder/
+https://anshujha404.github.io/Delicious-meal/
